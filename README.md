@@ -4,7 +4,7 @@
 
 Welcome to **Biker Zone**, a modern and fully responsive landing page of a bike store designed to showcase its offerings and latest trends. The project aims to provide an engaging and seamless user experience, ensuring a visually appealing layout with easy accessibility on mobile, tablet and desktop devices.
 
-### [Click here](https://biker-zone-sajjadur-rahman.netlify.app/) to visit the website.
+### [Click here](https://biker-zone-by-sajjadur-rahman.netlify.app/) to visit the website.
 
 ## Technologies Used
 
